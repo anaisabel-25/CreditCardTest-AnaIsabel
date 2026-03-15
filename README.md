@@ -1,5 +1,6 @@
 # CreditCardTest-AnaIsabel
-Clase CreditCard y sus pruebas unitarias con jUnit
+Clase CreditCard y sus pruebas unitarias con jUnit.
+
 classDiagram
     class CreditCard {
         -String number
