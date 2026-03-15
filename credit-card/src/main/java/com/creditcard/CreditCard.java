@@ -2,7 +2,7 @@ package com.creditcard;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
-/* Clase que representa una tarjeta de crédito */
+/* Clase que representa una tarjeta de crédito.*/
 public class CreditCard {
     private String number;
     private String titular;

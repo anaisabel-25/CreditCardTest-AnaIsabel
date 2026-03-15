@@ -1,7 +1,7 @@
 package com.creditcard;
 /**
  * Pruebas unitarias para la clase CreditCard utilizando JUnit 4.
- * Estas pruebas verifican el comportamiento de los métodos isExpired, ingresar y retirar,
+ * Estas pruebas verifican el comportamiento de los métodos isExpired, ingresar y retirar.
  */
 import org.junit.After;
 import static org.junit.Assert.assertEquals;
